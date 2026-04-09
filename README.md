@@ -226,7 +226,7 @@ No backend or database was used, per the challenge scope.
 
 ### Live Demo
 ```bash
-https://your-deployment-link.vercel.app
+https://calendar-sage-three.vercel.app/
 ```
 
 ### Video Demo
